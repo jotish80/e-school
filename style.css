@@ -29,7 +29,8 @@ h3{
     box-shadow: 5px 5px 10px gray;
  }
  .container{
-     margin-bottom: 80px;
+     margin-bottom: 100px;
+      
  }
  .study-bundle{
      text-align: center;
@@ -42,4 +43,9 @@ h3{
      color: white;
      padding: 20px 30px;
  }
+ .top{
+     background-color:#F0FFF0 ;
+     
+ }
+  
    
