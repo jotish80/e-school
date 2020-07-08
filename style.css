@@ -1,0 +1,45 @@
+.get-in{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    padding: 12px 28px;
+    border-radius: 33px;
+}
+.push-me{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    padding: 12px 40px;
+    border-radius: 33px;
+}
+.study{
+    background: #F0FFF0;
+}
+h3{
+    color: #FD511A;
+}
+ .col mb-3{
+     border: none;
+     border-radius: 20px;
+     box-shadow: 5px 5px 10px gray;
+ }
+ .card{
+    border: none;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px gray;
+ }
+ .container{
+     margin-bottom: 80px;
+ }
+ .study-bundle{
+     text-align: center;
+ }
+ .review{
+     text-align: center;
+ }
+ .bottom{
+     background-color:#282531;
+     color: white;
+     padding: 20px 30px;
+ }
+   
