@@ -1,6 +1,9 @@
 .navbar-custom{
     background-color: #F0FFF0 ;
 }
+.nav-link{
+    color: black;
+} 
 
 .get-in{
     background-color: #21B573;
@@ -45,8 +48,9 @@ h3{
 }  
 .card{
     background: #FFFFFF;
-    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
-    border-radius: 20px;
+    box-shadow: 0px 20px 40px lightgray;
+    border-radius: 20px !important;
+    border: none;
 }
  
  
