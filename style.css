@@ -1,3 +1,7 @@
+.navbar-custom{
+    background-color: #F0FFF0 ;
+}
+
 .get-in{
     background-color: #21B573;
     color: white;
@@ -19,20 +23,38 @@
 h3{
     color: #FD511A;
 }
- .col mb-3{
-     border: none;
-     border-radius: 20px;
-     box-shadow: 5px 5px 10px gray;
- }
+.card-1{
+    background-color:  #F8FFFB;
+    border-radius: 10px;
+    box-shadow: 0px 10px 20px;
+}
+.card-2{
+    background-color:  #FFFFFF;
+    box-shadow: 0px 20px 40px;
+    border-radius: 10px;
+}
+.card-3{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    box-shadow: 0px 10px 20px;
+}  
+.card-4{
+    background-color:  #FFFFFF;
+    box-shadow: 0px 20px 40px;
+    border-radius: 10px;
+}  
+.card{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+ 
+ 
  body{
      font-family: 'poppins'. sans-serif;
  }
 
- .card{
-    border: none;
-    border-radius: 30px;
-    box-shadow: 5px 5px 10px gray;
- }
+
  .container{
      margin-bottom: 100px;
      
